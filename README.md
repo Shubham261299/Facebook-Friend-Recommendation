@@ -1,4 +1,4 @@
-# Facebook-Friend-Recommendation
+# Facebook Friend Recommendation
 
 ## 1. Problem Statement:
 ### Imagine Users in social media as Nodes (dots)  and friendship/relationship between users as edges/Links
